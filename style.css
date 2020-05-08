@@ -1,0 +1,13 @@
+
+body{
+	padding:10px;
+	margin-left: -50px;
+}
+
+canvas {
+	margin:auto;
+}
+
+.text{
+	text-align: center;
+}
